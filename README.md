@@ -25,10 +25,11 @@ Dự án này sử dụng cấu trúc workspace của Rust, với contract chín
 
 Đầu tiên, cấp quyền thực thi cho kịch bản:
 
-Bash
+```text
 chmod +x deploy.sh
-
+```
 Sau đó, chạy kịch bản:
 
-Bash
+```text
 ./deploy.sh
+```
