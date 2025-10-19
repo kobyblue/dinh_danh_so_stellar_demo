@@ -1,0 +1,16 @@
+
+# Tệp .gitignore chuẩn cho dự án Rust/Soroban
+
+# Bỏ qua các tệp build của Rust
+/target/
+
+# Bỏ qua tệp khóa của Cargo
+Cargo.lock
+
+# Bỏ qua các tệp tạm của VS Code
+.vscode/
+
+# Các tệp hệ điều hành
+.DS_Store
+*.swp
+*.swo
